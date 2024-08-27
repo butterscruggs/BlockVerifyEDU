@@ -2,6 +2,8 @@
 
 **BlockVerifyEDU** is a blockchain-based student identity verification system that leverages smart contracts to provide secure, transparent, and efficient validation of student credentials.
 
+![Screenshot 2024-08-27 154522](https://github.com/user-attachments/assets/d4b61b4f-0de1-4edc-9d76-bcf6aad6d464)
+
 ## **Vision**
 
 The vision of **BlockVerifyEDU** is to modernize student identity verification by utilizing blockchain technology to ensure data integrity, enhance security, and streamline the verification process. Our goal is to create a trustworthy platform that reduces fraud and administrative overhead while maintaining the highest standards of privacy and transparency.
@@ -70,6 +72,8 @@ Start
 ## **Smart Contract**
 
 0xbcfb068bfa026421371a79ec245bcf47ed27afde
+
+![Screenshot 2024-08-27 155325](https://github.com/user-attachments/assets/693c9664-918f-4167-9cfc-ef11c2aa5efc)
 
 ## **Future Scope**
 
