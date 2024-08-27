@@ -54,6 +54,7 @@ Start
          End
 
 
+
 1. **Student Registration**
    - Educational institutions submit student admit card ID, name, and date of birth.
    - Data is recorded on the blockchain via the `registerStudent` function.
@@ -67,7 +68,7 @@ Start
 
 ## **Smart Contract**
 
-- **Contract Address**: 0x9AFdCF2f30d79Ece9ADDF307Cd494121A1589338
+- **Contract Address**: 0xbcfb068bfa026421371a79ec245bcf47ed27afde
 
 ## **Future Scope**
 
