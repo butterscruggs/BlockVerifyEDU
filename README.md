@@ -8,6 +8,7 @@ The vision of **BlockVerifyEDU** is to modernize student identity verification b
 
 ## **Flowchart**
 
+```
 Start
  |
  v
@@ -53,7 +54,7 @@ Start
           v
          End
 
-
+```
 
 1. **Student Registration**
    - Educational institutions submit student admit card ID, name, and date of birth.
@@ -68,7 +69,7 @@ Start
 
 ## **Smart Contract**
 
-- **Contract Address**: 0xbcfb068bfa026421371a79ec245bcf47ed27afde
+0xbcfb068bfa026421371a79ec245bcf47ed27afde
 
 ## **Future Scope**
 
